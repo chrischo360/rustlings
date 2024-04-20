@@ -1,0 +1,12 @@
+/home/chrischo/rustlings/target/release/deps/libanstyle-0be49c6390c3bf67.rmeta: /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/lib.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/macros.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/color.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/effect.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/reset.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/style.rs
+
+/home/chrischo/rustlings/target/release/deps/libanstyle-0be49c6390c3bf67.rlib: /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/lib.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/macros.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/color.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/effect.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/reset.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/style.rs
+
+/home/chrischo/rustlings/target/release/deps/anstyle-0be49c6390c3bf67.d: /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/lib.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/macros.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/color.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/effect.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/reset.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/style.rs
+
+/home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/lib.rs:
+/home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/macros.rs:
+/home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/color.rs:
+/home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/effect.rs:
+/home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/reset.rs:
+/home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/style.rs:

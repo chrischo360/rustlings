@@ -1,0 +1,12 @@
+/home/chrischo/rustlings/target/release/deps/libinotify-857ceb5eafe64509.rmeta: /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/lib.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/events.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/fd_guard.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/inotify.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/util.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/watches.rs
+
+/home/chrischo/rustlings/target/release/deps/libinotify-857ceb5eafe64509.rlib: /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/lib.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/events.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/fd_guard.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/inotify.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/util.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/watches.rs
+
+/home/chrischo/rustlings/target/release/deps/inotify-857ceb5eafe64509.d: /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/lib.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/events.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/fd_guard.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/inotify.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/util.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/watches.rs
+
+/home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/lib.rs:
+/home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/events.rs:
+/home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/fd_guard.rs:
+/home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/inotify.rs:
+/home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/util.rs:
+/home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/watches.rs:

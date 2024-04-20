@@ -1,0 +1,11 @@
+/home/chrischo/rustlings/target/release/deps/libanstyle_parse-15c0660acef30796.rmeta: /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/lib.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/params.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/state/mod.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/state/definitions.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/state/table.rs
+
+/home/chrischo/rustlings/target/release/deps/libanstyle_parse-15c0660acef30796.rlib: /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/lib.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/params.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/state/mod.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/state/definitions.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/state/table.rs
+
+/home/chrischo/rustlings/target/release/deps/anstyle_parse-15c0660acef30796.d: /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/lib.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/params.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/state/mod.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/state/definitions.rs /home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/state/table.rs
+
+/home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/lib.rs:
+/home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/params.rs:
+/home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/state/mod.rs:
+/home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/state/definitions.rs:
+/home/chrischo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.3/src/state/table.rs:
